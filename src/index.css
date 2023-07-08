@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rotate-bg::before {
+  content: "";
+  position: absolute;
+  top: -400px;
+  left: -1150px;
+  width: 100%;
+  height: 100%;
+  background-image: url("/tablet.png");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-position: top left;
+  transform: rotate(180deg);
+  z-index: 100;
+}
+
+.banner-bg-two {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rotate-bg-two::before {
+  content: "";
+  position: absolute;
+  top: -275px;
+  left: -375px;
+  width: 100%;
+  height: 100%;
+  background-image: url("/tablet.png");
+  background-repeat: no-repeat;
+  background-size: 80px;
+  transform: rotate(225deg);
+  z-index: 100;
+}
+
+.banner-bg-three {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rotate-bg-three::before {
+  content: "";
+  position: absolute;
+  top: 300px;
+  left: -250px;
+  width: 100%;
+  height: 100%;
+  background-image: url("/tablet.png");
+  background-repeat: no-repeat;
+  background-size: 60px;
+  z-index: 100;
+}
+
+.btn-second-outline {
+  @apply btn btn-outline text-second outline-second normal-case hover:bg-second hover:text-white font-bold;
+}

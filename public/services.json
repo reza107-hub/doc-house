@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "_id": "1",
+      "name": "Cavity Protection",
+      "description": "Cavity protection service is a comprehensive approach to prevent tooth decay. This service includes fluoride treatment, which strengthens the enamel and makes it more resistant to decay. We also provide dental sealants, a protective coating applied to the chewing surfaces of the back teeth to prevent food and bacteria from getting stuck in the grooves. Additionally, we educate our patients about proper oral hygiene practices, including correct brushing and flossing techniques, and the importance of regular dental check-ups. Our goal is to help you maintain a healthy, cavity-free smile.",
+      "image": "https://i.postimg.cc/qR0nHd39/image.png"
+    },
+    {
+      "_id": "2",
+      "name": "Cosmetic Dentistry",
+      "description": "Cosmetic dentistry is all about enhancing the aesthetic appeal of your smile. Our services include teeth whitening, a popular procedure that can significantly brighten your smile and remove stains. We also offer dental veneers, thin shells of porcelain that are bonded to the front of the teeth to improve their shape, color, size, or length. Bonding, a procedure that uses tooth-colored resin to repair or reshape a tooth, is another option. We also provide treatments for teeth alignment and bite correction. Our cosmetic dentistry services are designed to boost your confidence and make you want to show off your beautiful smile.",
+      "image": "https://i.postimg.cc/qRbfH4FR/Cosmetic-Dentisty.jpg"
+    },
+    {
+     "id": "3",
+      "name": "Oral Surgery",
+      "description": "Oral surgery encompasses a variety of procedures that address issues in and around the mouth and jaw. One common type of oral surgery is the removal of impacted wisdom teeth, which can cause pain and other complications if not addressed. We also perform dental implant surgery, a procedure that replaces missing teeth with artificial ones that look and function like real ones. Corrective jaw surgery, which corrects a wide range of minor and major skeletal and dental irregularities, is another service we offer. Our oral surgeons are highly trained and experienced, and they use the latest techniques and technologies to ensure the best possible outcomes for our patients.",
+      "image": "https://i.postimg.cc/kMTM7dSW/Oral-Surgery.png"
+    }
+  ]
+}
