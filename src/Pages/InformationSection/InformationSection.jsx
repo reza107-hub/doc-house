@@ -1,6 +1,6 @@
 const InformationSection = () => {
   return (
-    <div className="max-w-6xl md:mx-auto mx-2 p-2 flex flex-col md:flex-row justify-between items-center gap-5">
+    <div className="max-w-6xl md:mx-auto mx-2 p-2 flex flex-col md:flex-row justify-between items-center gap-5 mt-20">
       {/* Opening Hours */}
       <div className="bg-main w-full rounded-lg p-7 flex gap-5 items-start">
         <img src="/clock.svg" alt="" />

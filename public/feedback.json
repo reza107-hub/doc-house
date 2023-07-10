@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/5NwnpwYx/Ellipse-2.png",
+    "name": "John Doe",
+    "profession": "Web Developer",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc id aliquam tincidunt, nunc mauris lacinia nunc, id lacinia nunc mauris lacinia nunc."
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/yxRnMRLy/Ellipse-3.png",
+    "name": "Jane Smith",
+    "profession": "Graphic Designer",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc id aliquam tincidunt, nunc mauris lacinia nunc, id lacinia nunc mauris lacinia nunc."
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/5NwnpwYx/Ellipse-2.png",
+    "name": "Mike Johnson",
+    "profession": "Software Engineer",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc id aliquam tincidunt, nunc mauris lacinia nunc, id lacinia nunc mauris lacinia nunc."
+  }
+]
